@@ -1,0 +1,27 @@
+span {
+	border: 1px solid black;
+}
+
+div {
+	border: 1px solid black;
+}
+
+.name {
+	text-align: center;
+	font-size: 75px;
+	font-weight: bold;
+}
+
+p {
+	border: 1px solid black;
+}
+body {
+	background-color: #98FD53;
+}
+
+.creeper {
+	text-align: center;
+}
+img {
+	width: 500px;
+}
